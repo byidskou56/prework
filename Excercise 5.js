@@ -1,3 +1,5 @@
+//This is Excercise 5 of 16 PreWork BYI 13Aug23  18:35 EST
+
 console.log("True or false: 5 is less than 2");
 console.log(5 < 2);
 console.log("True or false: 19 is not equal 11");
