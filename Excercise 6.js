@@ -1,4 +1,4 @@
-//This is Excercise 6 of 16 PreWork BYI 13Aug23  18:35 EST
+//This is Excercise 6 of 16 PreWork BYI 13Aug23  18:46 EST
 
 console.log("true or false: wrapping in double quotes is the same as wrapping in single quotes");
 console.log("Hello world!" == 'Hello world!');
@@ -17,3 +17,11 @@ console.log(5 == "5");
 
 console.log("The number 5 is the same value and same data type as the string '5'");
 console.log(5 === "5");
+
+
+console.log("Apple" == "Apple"); // ==, true
+console.log("Charlie" < "Bravo"); // <, false
+console.log("15" !== "15"); // !==, false
+console.log("EagleCorps" != "eaglecorps"); // !=, true
+console.log("Prework" === "Prework"); // ===, true
+
