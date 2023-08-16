@@ -12,13 +12,13 @@ console.log(`${firstName}'s monogram is ${monogram}`)
 
 const fullString = "SOFTWARE DEV";
 
-const vanityLetter1 = "B"
-const vanityLetter2 = "Y"
+const vanityLetter1 = fullString[0]
+const vanityLetter2 = fullString[2]
 const vanityLetter3 = fullString[3]; //use this as an example
-const vanityLetter4 = "I"
-const vanityLetter5 = "1"
-const vanityLetter6 = "1"
-const vanityLetter7 = "7"
+const vanityLetter4 = fullString[4]
+const vanityLetter5 = fullString[9]
+const vanityLetter6 = fullString[10]
+const vanityLetter7 = fullString[11]
 
 const vanityPlate = vanityLetter1 + vanityLetter2 + vanityLetter3 + vanityLetter4 + vanityLetter5 + vanityLetter6 + vanityLetter7
 
